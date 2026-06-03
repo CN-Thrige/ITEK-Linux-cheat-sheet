@@ -1,5 +1,5 @@
 
- #For WSL 
+ #To close WSL 
 - sudo init 0
 
 #updates Ubuntu
