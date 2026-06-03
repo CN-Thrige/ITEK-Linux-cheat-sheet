@@ -1,0 +1,9 @@
+#To install list:
+
+- sudo apt list
+
+#This command shows what are in the current diretory 
+- ls -lh
+  > This command shows what are in the current diretory 
+ 
+  
