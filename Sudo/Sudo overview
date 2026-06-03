@@ -1,0 +1,13 @@
+- sudo init 0 #For WSL 
+
+- sudo apt update -y #updates windows
+
+-sudo adduser exampel_user #adds user
+ > su - #new user
+ 
+-
+
+
+
+
+
