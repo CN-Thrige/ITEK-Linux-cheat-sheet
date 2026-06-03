@@ -1,12 +1,26 @@
-- sudo init 0 #For WSL 
 
-- sudo apt update -y #updates windows
+ #For WSL 
+- sudo init 0
 
--sudo adduser exampel_user #adds user
- > su - #new user
- 
--
+#updates Ubuntu
+- sudo apt update -y 
 
+#New user
+-sudo adduser exampel_user 
+ > su - 
+
+#Cowsay
+-sudo apt install cowsay
+ > cowsay -bc 
+
+#Matrix effect
+- sudo apt install cmatrix 
+  > cmatrix. 
+  > Ctrl c (to escape)
+
+#System info
+- sudo apt install neofetch
+ > neofetch
 
 
 
