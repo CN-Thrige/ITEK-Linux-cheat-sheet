@@ -11,4 +11,5 @@ Example: example.sh
 2: chmod 755 example.sh
 - If "chmod 755 example.sh" doesn't work then: sudo chmod 755 example.sh
 
-3:  ./testfile.sh
+3:  ./example.sh
+- run the bash script
